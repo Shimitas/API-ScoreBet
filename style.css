@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(128, 128, 128, 0.616);
+}
+
+#imgDiv {
+    margin: 150px;
+    text-align: center;
+} 
+#imgId{
+    width:300px;
+    height: 250;
+}
+#mainDiv {
+    margin: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#highlights{
+    text-align: center;
+    width:400px;
+    height: 350px;
+    margin-right: 30px;
+}
